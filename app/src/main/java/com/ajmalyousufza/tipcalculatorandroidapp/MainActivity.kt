@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
         binding.calcualteButton.setOnClickListener{
             calculateTip()
         }
-      
+
         binding.costOfServiceEdittext.setOnKeyListener{ view, keyCode, _ -> handleKeyEvent(view, keyCode)
 
         }

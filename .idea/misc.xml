@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Muhammed ajmal y/AndroidStudioProjects/TipCalculatorAndroidApp/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/Muhammed ajmal y/AndroidStudioProjects/TipCalculatorAndroidApp/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/Muhammed ajmal y/AndroidStudioProjects/TipCalculatorAndroidApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/Muhammed ajmal y/AndroidStudioProjects/TipCalculatorAndroidApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/Muhammed ajmal y/AndroidStudioProjects/TipCalculatorAndroidApp/app/src/main/res/drawable/ic_roundup.xml" value="0.14074074074074075" />
         <entry key="..\:/Users/Muhammed ajmal y/AndroidStudioProjects/TipCalculatorAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Muhammed ajmal y/AndroidStudioProjects/TipCalculatorAndroidApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2601851851851852" />
       </map>
     </option>
   </component>
